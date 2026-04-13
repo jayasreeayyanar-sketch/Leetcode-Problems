@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
