@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
