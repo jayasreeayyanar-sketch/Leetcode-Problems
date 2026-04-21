@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Two Pointers
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
