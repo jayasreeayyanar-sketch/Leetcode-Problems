@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Greedy
 |  |
