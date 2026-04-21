@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0046-permutations) |
 ## Simulation
 |  |
 | ------- |
