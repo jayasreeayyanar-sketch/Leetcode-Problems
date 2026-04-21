@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
