@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,5 +93,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
