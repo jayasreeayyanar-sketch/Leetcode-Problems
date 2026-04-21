@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
