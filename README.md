@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
