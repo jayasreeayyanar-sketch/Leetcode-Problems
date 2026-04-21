@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
 ## Greedy
 |  |
 | ------- |
