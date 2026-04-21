@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
