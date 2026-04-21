@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
