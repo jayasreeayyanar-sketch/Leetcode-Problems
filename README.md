@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
