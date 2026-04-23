@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
