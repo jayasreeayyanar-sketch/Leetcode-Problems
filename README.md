@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
