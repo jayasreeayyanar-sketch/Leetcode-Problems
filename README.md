@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0120-triangle) |
 ## Stack
 |  |
 | ------- |
