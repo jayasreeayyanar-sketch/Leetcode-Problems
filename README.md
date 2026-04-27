@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## String
 |  |
 | ------- |
