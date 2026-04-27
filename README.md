@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 ## Stack
 |  |
 | ------- |
