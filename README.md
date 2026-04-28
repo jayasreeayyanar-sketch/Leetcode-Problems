@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
