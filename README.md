@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
 ## Stack
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 ## Sliding Window
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 ## Geometry
 |  |
