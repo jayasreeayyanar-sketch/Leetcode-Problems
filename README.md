@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
@@ -286,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 ## Memoization
 |  |
 | ------- |
@@ -417,4 +420,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
