@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
 | ------- |
