@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
