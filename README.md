@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -526,11 +529,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -561,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Treap
 |  |
 | ------- |
