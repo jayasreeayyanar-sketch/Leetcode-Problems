@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## String Matching
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Sorting
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 ## Binary Search Tree
 |  |
 | ------- |
