@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
