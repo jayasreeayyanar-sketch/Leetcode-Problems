@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## String
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Memoization
 |  |
 | ------- |
@@ -467,10 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sweep Line
 |  |
 | ------- |
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Design
 |  |
 | ------- |
@@ -499,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -519,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
