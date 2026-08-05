@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
@@ -505,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 ## Ordered Set
 |  |
 | ------- |
@@ -560,4 +566,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
