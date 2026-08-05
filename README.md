@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
