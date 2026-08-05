@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0330-patching-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0330-patching-array) |
 ## Sorting
 |  |
 | ------- |
