@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
@@ -546,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
