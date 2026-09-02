@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -539,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 ## Geometry
 |  |
 | ------- |
