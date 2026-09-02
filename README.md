@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0479-largest-palindrome-product) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -684,4 +685,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
