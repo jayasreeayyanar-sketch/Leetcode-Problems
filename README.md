@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
+| [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
