@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
+| [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 ## Bit Manipulation
 |  |
 | ------- |
