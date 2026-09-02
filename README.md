@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
