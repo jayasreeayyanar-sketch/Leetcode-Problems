@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 ## String Matching
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 ## Tree
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 | [3310-remove-methods-from-project](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
