@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Geometry
 |  |
 | ------- |
