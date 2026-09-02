@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+| [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0336-palindrome-pairs) |
+| [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
+| [0466-count-the-repetitions](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0466-count-the-repetitions) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
