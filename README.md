@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## String
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -577,12 +580,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -628,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -656,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Topological Sort
 |  |
 | ------- |
