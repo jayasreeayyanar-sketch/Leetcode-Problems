@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
+| [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
 | [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 ## Ordered Set
 |  |
 | ------- |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0327-count-of-range-sum) |
+| [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 ## Topological Sort
 |  |
 | ------- |
