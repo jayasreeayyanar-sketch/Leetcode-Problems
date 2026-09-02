@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
+| [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -574,10 +576,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 ## Merge Sort
 |  |
 | ------- |
