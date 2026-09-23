@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0517-super-washing-machines) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0517-super-washing-machines) |
 ## Sorting
 |  |
 | ------- |
