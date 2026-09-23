@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0483-smallest-good-base) |
 | [0564-find-the-closest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -730,4 +733,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0479-largest-palindrome-product) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
