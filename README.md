@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
+| [0564-find-the-closest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0483-smallest-good-base) |
+| [0564-find-the-closest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
