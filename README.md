@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 | [0546-remove-boxes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0552-student-attendance-record-ii) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
