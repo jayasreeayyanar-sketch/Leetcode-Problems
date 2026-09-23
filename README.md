@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0591-tag-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
+| [0591-tag-validator](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0591-tag-validator) |
 ## String Matching
 |  |
 | ------- |
