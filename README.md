@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0546-remove-boxes) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0514-freedom-trail) |
+| [0546-remove-boxes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0546-remove-boxes) |
 | [3660-jump-game-ix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 ## Stack
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0546-remove-boxes) |
 ## Tree
 |  |
 | ------- |
