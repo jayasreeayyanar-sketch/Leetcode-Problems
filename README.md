@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0164-maximum-gap) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
