@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0502-ipo) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0480-sliding-window-median) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jayasreeayyanar-sketch/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Randomized
 |  |
 | ------- |
